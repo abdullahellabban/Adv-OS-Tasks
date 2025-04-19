@@ -11,10 +11,9 @@ File Structure
 •	  - Block class: represents a memory block
 •	  - MemoryAllocator class: handles memory operations
 •	  - Sample usage in the __main__ section
-How to Run
+---------------------------------------------------
 1. Make sure you have Python 3 installed.
 2. Run the script using:
-python "Adv Os Task1.py"
 You will see the memory state evolve as processes are added, removed, and memory is compacted.
 Code Overview
 Class: Block
